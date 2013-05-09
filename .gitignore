@@ -1,6 +1,17 @@
 *.class
+target
+log
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Flash Videos
+*.flv
+*.flv.ser
+
+# Eclipse
+.settings
+.classpath
+.project
